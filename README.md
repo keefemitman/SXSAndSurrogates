@@ -2,7 +2,7 @@
 Welcome friends! In our second GW group tutorial, we'll be covering
 * a brief introduction to numerical relativity, i.e., what it means to simulate a binary black hole coalescence,
 * how to interact with SXS Collaboration's catalog of NR simulations, i.e., how to load waveforms and plot them,
-* and then we'll conclude by building our very own waveform surrogate model using numerical relativity waveforms!
+* and then we'll conclude by building our very own waveform surrogate model using some of the more simple numerical relativity waveforms for the SXS Collaboration's catalog!
 
 ### Getting started
 To start this tutorial, you'll first need to clone the repository and `cd` into it
