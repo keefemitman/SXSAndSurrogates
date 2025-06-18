@@ -4,7 +4,15 @@ Welcome friends! In our second GW group tutorial, we'll be covering
 * how to interact with SXS Collaboration's catalog of NR simulations, i.e., how to load waveforms and plot them,
 * and then we'll conclude by building our very own waveform surrogate model using some of the more simple numerical relativity waveforms for the SXS Collaboration's catalog!
 
-### Getting started
+### Getting started (Google Colab)
+
+If you don't want to download anything locally, feel free to use [Google Colab](https://colab.research.google.com/) instead!
+
+Just enter the url for this Github repository into Google Colab and boot up the `Tutorial.ipynb` notebook.
+
+It will crash the first time you run it because of some issue with `matplotlib`, but if you simply run it again then it should work just fine!
+
+### Getting started (running locally)
 To start this tutorial, you'll first need to clone the repository and `cd` into it
 
 (feel free to change `my_copy_of_the_tutorial` to whatever you want):
