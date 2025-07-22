@@ -8,9 +8,20 @@ Welcome friends! In our second GW group tutorial, we'll be covering
 
 If you don't want to download anything locally, feel free to use [Google Colab](https://colab.research.google.com/) instead!
 
-Just enter the url for this Github repository into Google Colab and boot up the `Tutorial.ipynb` notebook.
+Just 
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. Click `File`, and then `Upload Notebook`, and then `GitHub`
+3. Paste the following url
+    ```
+    https://github.com/keefemitman/SXSAndSurrogates
+    ```
+    into the search bar, and  <ins>then click off the search bar</ins>
 
-It will crash the first time you run it because of some issue with `matplotlib`, but if you simply run it again then it should work just fine!
+4. Click `Tutorial.ipynb` (this will open the notebook)
+5. Click `Run all`
+6. Wait for the notebook to crash
+7. Click `Run all` again
+8. Enjoy! 🌊
 
 ### Getting started (running locally)
 To start this tutorial, you'll first need to clone the repository and `cd` into it
@@ -18,7 +29,7 @@ To start this tutorial, you'll first need to clone the repository and `cd` into 
 (feel free to change `my_copy_of_the_tutorial` to whatever you want):
 
 ```
-  git clone git@github.com:keefemitman/SXSAndSurrogates.git my_copy_of_the_tutorial | cd my_copy_of_the_tutorial
+git clone git@github.com:keefemitman/SXSAndSurrogates.git my_copy_of_the_tutorial | cd my_copy_of_the_tutorial
 ```
 
 Then, you'll need to install the relevant packages. If you are already one of the cool kids and are using `uv` (https://docs.astral.sh/uv/),
